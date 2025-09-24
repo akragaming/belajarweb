@@ -10,7 +10,6 @@ html {
 }
 
 body {
-    background-image: url(../img/love1.png);
     background-repeat: no-repeat;
     background-position: ;
     background-size: cover;
@@ -54,7 +53,7 @@ body {
 }
 
 .img-gambar {
-    width: 30%;
+    width: 10%;
     height: 40%;
 }
 
